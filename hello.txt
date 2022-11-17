@@ -3,5 +3,6 @@ hello atzbx!   33333333
 hello atzbx!
 hello atzbx!
 hello atzbx!
+<<<<<<< HEAD
 hello atzbx!   master
-hello atzbx!
+hello atzbx!   hot-fix test`
