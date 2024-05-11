@@ -1,0 +1,12 @@
+train: C:\RuanJian\bs\ultralytics-main\data\train.txt
+val: C:\RuanJian\bs\ultralytics-main\data\val.txt
+test: C:\RuanJian\bs\ultralytics-main\data\test.txt
+
+
+nc: 2 # 填写类别数
+
+names:
+  0: drone
+  1: bird
+
+# train,val,test的路径根据自己情况而定
